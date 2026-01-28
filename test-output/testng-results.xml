@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-28T14:08:44 CST" name="Default suite" finished-at="2026-01-28T14:08:48 CST" duration-ms="4266">
+    <groups>
+      <group name="Smoke">
+        <method signature="SeleniumWithTestNG2.verifyTitle()[pri:0, instance:interactionwithselenium.SeleniumWithTestNG2@765d7657]" name="verifyTitle" class="interactionwithselenium.SeleniumWithTestNG2"/>
+        <method signature="SeleniumWithTestNG2.verifyURL()[pri:0, instance:interactionwithselenium.SeleniumWithTestNG2@765d7657]" name="verifyURL" class="interactionwithselenium.SeleniumWithTestNG2"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2026-01-28T14:08:44 CST" name="Default test" finished-at="2026-01-28T14:08:48 CST" duration-ms="4266">
+      <class name="interactionwithselenium.SeleniumWithTestNG2">
+        <test-method is-config="true" signature="setup()[pri:0, instance:interactionwithselenium.SeleniumWithTestNG2@765d7657]" started-at="2026-01-28T14:08:44 CST" name="setup" finished-at="2026-01-28T14:08:45 CST" duration-ms="1649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTitle()[pri:0, instance:interactionwithselenium.SeleniumWithTestNG2@765d7657]" started-at="2026-01-28T14:08:45 CST" name="verifyTitle" description="Checking application home page" finished-at="2026-01-28T14:08:46 CST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:interactionwithselenium.SeleniumWithTestNG2@765d7657]" started-at="2026-01-28T14:08:46 CST" name="tearDown" finished-at="2026-01-28T14:08:46 CST" duration-ms="754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:interactionwithselenium.SeleniumWithTestNG2@765d7657]" started-at="2026-01-28T14:08:46 CST" name="setup" finished-at="2026-01-28T14:08:48 CST" duration-ms="1230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyURL()[pri:0, instance:interactionwithselenium.SeleniumWithTestNG2@765d7657]" started-at="2026-01-28T14:08:48 CST" name="verifyURL" description="Checking application home page" finished-at="2026-01-28T14:08:48 CST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyURL -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:interactionwithselenium.SeleniumWithTestNG2@765d7657]" started-at="2026-01-28T14:08:48 CST" name="tearDown" finished-at="2026-01-28T14:08:48 CST" duration-ms="523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- interactionwithselenium.SeleniumWithTestNG2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

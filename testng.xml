@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="AutomationTest">
+  <test name="SmokeTest">
+  
+      <classes>
+      <class name="firstTestngProgram.LoginScenario"/>
+      
+      <class name="firstTestngProgram.MyFirstTestNG"/>
+    </classes>
+  </test> <!-- Test -->
+  
+    <test name="Regression">
+   
+    <classes>
+      <class name="testngassert.TestNGAssert"/>
+      
+       <class name="testngassert.TestNGAssert2"/>
+       
+      <class name="testngassert.TestNGDependency"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  
+</suite> <!-- Suite -->
