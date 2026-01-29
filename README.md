@@ -1,5 +1,5 @@
 Running the test
-Clone the repository using
+Clone the repository using below command
 
  git clone  git@github.com:srahman6701/Jan28_Repo3.git
  git clone https://github.com/srahman6701/Jan28_Repo3.git
